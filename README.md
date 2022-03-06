@@ -4,4 +4,4 @@ Andre's Intro
 
 Full-stack Web Developer, UI/UX Designer, and programmer.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/807374318207500308)](https://discord.com/users/807374318207500308)
+https://lanyard-profile-readme.vercel.app/api/840040157851025440)](https:/discord.com/users/840040157851025440
