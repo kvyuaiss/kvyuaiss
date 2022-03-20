@@ -56,8 +56,8 @@
 					-webkit-text-stroke: 1px white;
 				}
 				.heda {
-					background: -webkit-linear-gradient(right,#c700ff,#46a0ff);
-				  background: linear-gradient(270deg,#c700ff 0,#46a0ff);
+					background: -webkit-linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
+				  background: linear-gradient(90deg, rgba(17,94,89,1) 0%, rgba(13,148,136,1) 29%, rgba(94,234,212,1) 100%);
 				  background-size: 350%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
