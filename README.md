@@ -1,7 +1,3 @@
-
-Andre's Intro
----
-
-Full-stack Web Developer, UI/UX Designer, and programmer.
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/840040157851025440)](https://discord.com/users/840040157851025440)
+<h1 align="left">
+  Hey there, I'm Andre!
+</h1>
