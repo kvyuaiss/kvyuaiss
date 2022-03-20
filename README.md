@@ -6,5 +6,6 @@
  <img align="right" src="https://lanyard-profile-readme.vercel.app/api/840040157851025440"></img>
 </h1>
 
-text
-text
+hey there, i'm andre! i'm a fullstack web developer currently working on [carbon platform](carbonapp.io) specialising in the future of discord bots.
+
+pretty cool person, i really am an angular fanboy and i enjoy the pleasure Hyra.io gives me
