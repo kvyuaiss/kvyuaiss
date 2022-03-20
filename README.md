@@ -10,4 +10,4 @@ hey there, i'm andre! i'm a fullstack web developer currently working on [carbon
 
 pretty cool person, i really am an angular fanboy and i enjoy the pleasure Hyra.io gives me
 
-[chat / me!](https://calendly.com/kvyuais/have-a-chat?month=2022-03)
+[chat w/ me!](https://calendly.com/kvyuais/have-a-chat?month=2022-03)
