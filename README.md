@@ -1,6 +1,6 @@
 
 <!-- <img src="https://raw.githubusercontent.com/kvyuaiss/kvyuaiss/main/craft.svg" style="float: left;" width="128" alt="hi" /> -->
-<h1 align="left">
+<h1 align="right">
  <img src="https://raw.githubusercontent.com/kvyuaiss/kvyuaiss/main/header.svg" alt="hi" />
  <img src="https://skillicons.dev/icons?i=js,gcp,aws,angular,ts,nextjs,nodejs,twitter,react,firebase,discord,cloudflare,bots,express,html,css,vscode,materialui,nginx,tailwind" />
  <img align="right" src="https://lanyard.cnrad.dev/api/938070637224800266?animated=true"></img>
