@@ -5,10 +5,8 @@
  <img src="https://skillicons.dev/icons?i=js,gcp,aws,angular,ts,nextjs,nodejs,twitter,react,firebase,discord,cloudflare,bots,express,html,css,vscode,materialui,nginx,tailwind" />
  <img align="right" src="https://lanyard.cnrad.dev/api/938070637224800266?animated=true"></img>
 </h1>
-<p>
 hey there, i'm andre! i'm a fullstack web developer currently working on [carbon platform](carbonapp.io) specialising in the future of discord bots.
 
 pretty cool person, i really am an angular fanboy
 
 [chat w/ me!](https://calendly.com/kvyuais/have-a-chat?month=2022-03)
-</p>
